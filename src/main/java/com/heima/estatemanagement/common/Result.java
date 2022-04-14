@@ -14,6 +14,7 @@ public class Result implements Serializable {
     private Integer code;//返回码
     private String message;//返回消息
     private Object data;
+    private String age;
 
     /**
      * 功能描述: 无参构造
