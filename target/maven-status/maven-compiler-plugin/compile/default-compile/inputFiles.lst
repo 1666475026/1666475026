@@ -1,0 +1,17 @@
+E:\code\java\黑马智慧物业管理\src\main\java\com\heima\estatemanagement\common\MessageConstant.java
+E:\code\java\黑马智慧物业管理\src\main\java\com\heima\estatemanagement\service\CommunityService.java
+E:\code\java\黑马智慧物业管理\src\main\java\com\heima\estatemanagement\domain\Building.java
+E:\code\java\黑马智慧物业管理\src\main\java\com\heima\estatemanagement\dao\BuildingMapper.java
+E:\code\java\黑马智慧物业管理\src\main\java\com\heima\estatemanagement\exception\GlobalExceptionHandler.java
+E:\code\java\黑马智慧物业管理\src\main\java\com\heima\estatemanagement\controller\CommunityController.java
+E:\code\java\黑马智慧物业管理\src\main\java\com\heima\estatemanagement\EstateManagementApplication.java
+E:\code\java\黑马智慧物业管理\src\main\java\com\heima\estatemanagement\dao\CommunityMapper.java
+E:\code\java\黑马智慧物业管理\src\main\java\com\heima\estatemanagement\service\BuildingService.java
+E:\code\java\黑马智慧物业管理\src\main\java\com\heima\estatemanagement\service\impl\CommunityServiceImpl.java
+E:\code\java\黑马智慧物业管理\src\main\java\com\heima\estatemanagement\common\StatusCode.java
+E:\code\java\黑马智慧物业管理\src\main\java\com\heima\estatemanagement\controller\BuildingController.java
+E:\code\java\黑马智慧物业管理\src\main\java\com\heima\estatemanagement\common\PageResult.java
+E:\code\java\黑马智慧物业管理\src\main\java\com\heima\estatemanagement\domain\Community.java
+E:\code\java\黑马智慧物业管理\src\main\java\com\heima\estatemanagement\controller\FileController.java
+E:\code\java\黑马智慧物业管理\src\main\java\com\heima\estatemanagement\common\Result.java
+E:\code\java\黑马智慧物业管理\src\main\java\com\heima\estatemanagement\service\impl\BuildingServiceImpl.java
